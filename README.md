@@ -24,7 +24,11 @@ The institute is sparking crucial conversations about artificial intelligence wi
 
 We encourage the university and greater community to connect with us on our social media channels to learn about the Institute’s initiatives and upcoming events.
 
-[Instagram](https://ai.umb.edu/#connect-with-us) | [Facebook](https://ai.umb.edu/#connect-with-us) | [ScholarWorks](https://ai.umb.edu/#connect-with-us) | [YouTube Channel](https://ai.umb.edu/#connect-with-us) | [LinkedIn](https://ai.umb.edu/#connect-with-us)
+- **Instagram:** [Follow us on Instagram](https://www.instagram.com/umb_ai_institute/)
+- **Facebook:** [Follow us on Facebook](https://www.facebook.com/share/GYuFq1Nsb2TtS6zd/?mibextid=LQQJ4d)
+- **ScholarWorks:** [View our Publications](https://scholarworks.umb.edu/ai_pubs/)
+- **YouTube Channel:** [Watch our Videos](https://www.youtube.com/@umb_peaaii)
+- **LinkedIn:** [Connect with us on LinkedIn](https://www.linkedin.com/company/paul-english-applied-artificial-intelligence-institute/)
 
 ---
 

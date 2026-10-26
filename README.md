@@ -4,12 +4,6 @@
   <img src="Paul%20english.png" alt="Paul English Applied Artificial Intelligence Institute Banner" width="100%">
 </p>
 
-**University of Massachusetts Boston**
-
-[Official Website](https://ai.umb.edu/) | [LinkedIn](https://www.linkedin.com/company/paul-english-applied-artificial-intelligence-institute/)
-
----
-
 ## About Us
 
 The institute’s research, education, and outreach activities will be embedded in academic study across campus and include a focus on the social, ethical, and diversity challenges and opportunities associated with emerging AI tools.
@@ -23,6 +17,14 @@ She facilitates the institute’s Lead Planning Team, a 6-member curricular work
 ## What We Do
 
 The institute is sparking crucial conversations about artificial intelligence within our community. Through a series of dynamic events and media coverage, we are encouraging a dialogue that bridges the gap between AI experts and learners and empowers individuals to navigate the complexities of AI with informed perspectives.
+
+---
+
+## Connect With Us
+
+We encourage the university and greater community to connect with us on our social media channels to learn about the Institute’s initiatives and upcoming events.
+
+[Instagram](https://ai.umb.edu/#connect-with-us) | [Facebook](https://ai.umb.edu/#connect-with-us) | [ScholarWorks](https://ai.umb.edu/#connect-with-us) | [YouTube Channel](https://ai.umb.edu/#connect-with-us) | [LinkedIn](https://ai.umb.edu/#connect-with-us)
 
 ---
 
